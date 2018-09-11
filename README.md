@@ -1,42 +1,70 @@
-# myproject
-https://beta-bench.backbench.io/tripurakant
+# [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
 
-https://github.com/backbench/front-end-challenge-2018
+[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-The assignment is to test your skills to, (written in priority)
+## Preview
 
-To complete the given task.
-Ability to work with front-end frameworks like Angular, React.
-To integrate your front-end with APIs.
-Have a good eye on design, plus your ability to see forward of design.
-Productivity. (if not you'll learn over here else you'll become better at it)
-Assignment
-Prerequisite: Sign-up to https://beta-bench.backbench.io/ followed by sign-in. You will see a dashboard.
+[![SB Admin Preview](https://startbootstrap.com/assets/img/templates/sb-admin.jpg)](https://blackrockdigital.github.io/startbootstrap-sb-admin/)
 
-Now your first task is to create a dashboard similar to this.
-Click on My bench - create a Bench. Now select it, observe the change in the left sidebar.
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-sb-admin/)**
 
-Create a UI to provide such functionality (with change in the sidebar). You will be provided with API to list "My benches". Also, another API which describes them. So when you click on any of the item listed, there should be a change in the sidebar - along with the values printed on dashboard area.
-You'll be provided with all necessary APIS.
+## Status
 
-Advantage point:
-A Back button for navigating to My Bench page from point #2, which shows you the dashboard you created on #1, along with the sidebar first appeared.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-sb-admin/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-sb-admin.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-sb-admin)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin?type=dev)
 
-To be provided on request :)
+## Download and Installation
 
-Note:
-The sidebar is necessary (Preferably collapsible sidebar).
-You don't need to copy the UI here, take an idea from current layout only.
-The submission should be over Github, so please fork this repo.
-Mocked Endpoints:
-memory : http://www.mocky.io/v2/5b4dad7c31000055005ebd04
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/sb-admin/)
+* Install via npm: `npm i startbootstrap-sb-admin`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-sb-admin)
 
-invocation: http://www.mocky.io/v2/5b4dadc831000013115ebd05
+## Usage
 
-requests_dashboard: http://www.mocky.io/v2/5b4dae7431000013115ebd12
+### Basic Usage
 
-activities: http://www.mocky.io/v2/5b4daf3431000055005ebd18
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-benchList: http://www.mocky.io/v2/5b4daf683100006e0b5ebd1a
+### Advanced Usage
 
-dashboard_2: http://www.mocky.io/v2/5b4dafc131000055005ebd20
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+
+#### Gulp Tasks
+
+- `gulp` the default task that builds everything
+- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+- `gulp js` minifies the themes JS file
+- `gulp vendor` copies dependencies from node_modules to the vendor directory
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
+
+## Custom Builds
+
+You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
